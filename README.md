@@ -1,2 +1,2 @@
-# DotnetCoreMvcProduct01-
+# DotnetCoreMvcProduct01
 dotnet core mvc product01 
